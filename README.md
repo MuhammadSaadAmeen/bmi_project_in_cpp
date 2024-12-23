@@ -25,9 +25,12 @@ To compile and run the BMI calculator program, follow these steps:
 - A C++ compiler (e.g., [g++](https://gcc.gnu.org/))
 - A terminal or command prompt to run the code
 
-### Steps
+### Key Points:
+- **Project Description**: This explains what the program does.
+- **Getting Started**: Provides clear steps for compiling and running the program.
+- **Code Structure**: Breaks down the key functions in the program.
+- **Example**: Shows how the input and output work.
+- **License & Contribution**: Encourages open-source contribution with license information.
 
-1. **Clone the repository**:
-   ```bash
-   git https://github.com/your-username/bmi-calculator.git
-   cd bmi-calculator
+This README will provide users with all the necessary information to understand and use your BMI calculator program.
+
