@@ -5,9 +5,7 @@ This is a simple C++ program that calculates the Body Mass Index (BMI) based on 
 ## Features
 
 - **BMI Calculation**: The program calculates BMI using the formula:
-  \[
-  BMI = \frac{weight}{height^2}
-  \]
+`BMI = weight / (height * height)`
   where `weight` is in kilograms and `height` is in meters.
   
 - **BMI Classification**: The program provides feedback based on the calculated BMI value:
